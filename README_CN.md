@@ -7,12 +7,15 @@ Trilium的倒计时天数小部件是一个方便的工具，它在您的日志�
 # 屏幕截图
 
 过去的时间
+
 ![过去](docs/past.png)
 
 未来的时间
+
 ![未来](docs/future.png)
 
 i18n支持，例如中文
+
 ![中文](docs/chinese-1000-days.png)
 
 # 如何安装

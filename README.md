@@ -7,12 +7,15 @@ Countdown Days widget for Trilium is a handy tool that adds a message displaying
 # ScreenShots
 
 Past time
+
 ![past](docs/past.png)
 
 Future time
+
 ![future](docs/future.png)
 
 i18n support, e.g. Chinese
+
 ![chinese](docs/chinese-1000-days.png)
 
 # How to install
